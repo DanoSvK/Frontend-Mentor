@@ -1,1 +1,3 @@
-This is my repository
+#My repository
+
+This is my repository.
