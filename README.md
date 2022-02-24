@@ -1,7 +1,1 @@
-#My repository
-
-This is my repository.
-
-#Subheader
-
-No uvidíme či to vôbec funguje.
+This is a solution to my Testimonials project using responsive grid layout.
